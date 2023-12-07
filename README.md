@@ -29,17 +29,29 @@ The CarRent website has implemented a responsive interface design so that when a
 On each input form, the CarRent website has validated the data input, and provided appropriate feedback if an error occurs or is successful.
 
 
-## Landing Page
+## Interface
 
+### Landing Page
 ![](/public/img/screenshots/landing_page.png)
 
 Landing Page is the default first page when user access CarRent website, User can click on the blue button to start browse the website.
 
+### Car Rental Page
+![](/public/img/screenshots/carRental_page_search)
+![](/public/img/screenshots/carRental_page_filterbycategory.png)
+![](/public/img/screenshots/carRental_page_filterbypassenger.png)
+![](/public/img/screenshots/carDetail_page.png)
+![](/public/img/screenshots/carBooking_page.png)
 
-## Car Rental Page
 
-## Car Return Page
 
-## Dashboard Page
+### Car Return Page
+![](/public/img/screenshots/carReturn_page.png)
+
+
+
+### Dashboard Page
+![](/public/img/screenshots/dashboard_page_mycars.png)
+![](/public/img/screenshots/dashboard_page_newcar.png)
 
 
