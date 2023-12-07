@@ -14,9 +14,12 @@ A simple responsive website build using laravel for Car Rental.
 
 ## Login Page
 
+
 ## Sign Up Page
 
 ## Landing Page
+
+![Landing Page](/public/img/screenshots/landing_page.png)
 
 ## Car Rental Page
 
