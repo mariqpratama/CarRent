@@ -5,7 +5,7 @@ A simple responsive website build using laravel for Car Rental.
 
 ## Overview
 
-### Action
+### Actions
 - User can browse some page before login
 - User can search car by Brand or Model of the car
 - User can filter All Cars list based on Rental Type or Passanger's Number
@@ -67,5 +67,7 @@ Then after moving to the dashboard page, users can access the 'My Cars' menu to 
 ![](/public/img/screenshots/dropdown_user.png)
 ![](/public/img/screenshots/dashboard_page_mycars.png)
 ![](/public/img/screenshots/dashboard_page_newcar.png)
+
+
 
 **Thank you for visiting, and I hope you enjoy this glimpse into my world of informatics**.
