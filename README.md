@@ -12,17 +12,19 @@ A simple responsive website build using laravel for Car Rental.
 - User that already login can access Dashboard page, Booking page and Return page
 - User can add new rental cars and see all the rental
 
-## Login Page
-
-
-## Sign Up Page
-
 ## Landing Page
 
-![Landing Page](/public/img/screenshots/landing_page.png)
+![](/public/img/screenshots/landing_page.png)
+Landing Page is the default first page when user access CarRent website, User can click on the blue button to start browse the website.
+
+## Responsive
+
+## Validation
 
 ## Car Rental Page
 
 ## Car Return Page
 
 ## Dashboard Page
+
+
