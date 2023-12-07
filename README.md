@@ -43,7 +43,9 @@ Landing Page is the default first page when user access CarRent website, User ca
 ![](/public/img/screenshots/carDetail_page.png)
 ![](/public/img/screenshots/carBooking_page.png)
 
+The Car Rental page will display all the cars available for rental. On this page, users can use the search feature by typing in the brand or model of the car they want to search for. Apart from that, there is also a filter feature based on rental type or number of passengers by pressing the blue text on the rental car information card.
 
+Users can also view detailed information about the rental car by pressing the 'Detail' button, and if the user wants to rent it, the user can press the 'Book Now' button on the rental car details page which will then be directed to fill in the rental time.
 
 ### Car Return Page
 ![](/public/img/screenshots/carReturn_page.png)
