@@ -14,12 +14,15 @@ A simple responsive website build using laravel for Car Rental.
 
 ## Landing Page
 ![](/public/img/screenshots/landing_page.png)
+
 Landing Page is the default first page when user access CarRent website, User can click on the blue button to start browse the website.
 
 ## Responsive
 
 ![](/public/img/screenshots/landing_page_phone.png)
+
 ![](/public/img/screenshots/carRental_page_phone_1.png)
+
 The CarRent website has implemented a responsive interface design so that when accessed with a cellphone the interface will change to suit the screen size.
 
 ## Validation
