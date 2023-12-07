@@ -37,7 +37,7 @@ On each input form, the CarRent website has validated the data input, and provid
 Landing Page is the default first page when user access CarRent website, User can click on the blue button to start browse the website.
 
 ### Car Rental Page
-![](/public/img/screenshots/carRental_page_search)
+![](/public/img/screenshots/carRental_page_search.png)
 ![](/public/img/screenshots/carRental_page_filterbycategory.png)
 ![](/public/img/screenshots/carRental_page_filterbypassenger.png)
 ![](/public/img/screenshots/carDetail_page.png)
@@ -50,10 +50,16 @@ Users can also view detailed information about the rental car by pressing the 'D
 ### Car Return Page
 ![](/public/img/screenshots/carReturn_page.png)
 
-
+On this page, users can enter the plate number to complete the car rental process.
 
 ### Dashboard Page
+![](/public/img/screenshots/dropdown_user.png)
 ![](/public/img/screenshots/dashboard_page_mycars.png)
 ![](/public/img/screenshots/dashboard_page_newcar.png)
+
+The dashboard page can be accessed by pressing the dropdown menu located at the top right of the navbar. 
+
+Then after moving to the dashboard page, users can access the 'My Cars' menu to see a list of cars being rented. Apart from that, there is a button to direct users to the page for adding new rental car information.
+
 
 
