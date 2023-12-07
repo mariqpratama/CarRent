@@ -28,6 +28,7 @@ class CarRentalController extends Controller
     public function show(Post $post) {
         return view("detail", [
             "title"=> "Detail",
+            "active"=> "All Cars",
             "detail"=> $post
         ]);
     }

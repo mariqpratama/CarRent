@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\CarBookController;
 use App\Models\Post;
 use App\Models\Category;
 use App\Models\Passenger;
@@ -28,6 +29,13 @@ Route::get('/', function () {
 
 Route::get('/carRental', [CarRentalController::class,'index']);
 Route::get("details/{post:slug}", [CarRentalController::class,"show"])->middleware('auth');
+// Route::get("book/{post:slug}", [CarBookController::class,"index"])->middleware('auth');
+
+Route::get('/book', function () {
+    return view('book', [
+        "title" => "Car Booking"
+    ]);
+});
 
 Route::get('/carReturn', function () {
     return view('carReturn', [
@@ -45,5 +53,4 @@ Route::post('/register', [RegisterController::class,'store']);
 Route::get('/dashboard', function() {
     return view("dashboard.index");
 })->middleware('auth');
-
 Route::resource('/dashboard/cars', DashboardCarController::class)->middleware('auth');

@@ -18,7 +18,7 @@
                   <p class="card-text">{{ $detail->rental_rate }}</p>
                   <p class="card-text"><a href="/carRental?category={{ $detail->category->slug }}" class="text-decoration-none">{{ $detail->category->name }}</a></p>
                   <p class="card-text"><a href="/carRental?passenger={{ $detail->passenger->slug }}" class="text-decoration-none">{{ $detail->passenger->name }}</a></p>
-                  <a href="#" class="btn btn-primary">Book Now</a>
+                  <a href="/book" class="btn btn-primary">Book Now</a>
                 </div>
               </div>
             </div>
