@@ -14,19 +14,19 @@ A simple responsive website build using laravel for Car Rental.
 - User can add new rental cars and see all the rental
 
 ### Responsive
+The CarRent website has implemented a responsive interface design so that when accessed with a cellphone the interface will change to suit the screen size.
 ![](/public/img/screenshots/landing_page_phone.png)
 ![](/public/img/screenshots/carRental_page_phone_1.png)
 
-The CarRent website has implemented a responsive interface design so that when accessed with a cellphone the interface will change to suit the screen size.
-
 ## Validation
+
+On each input form, the CarRent website has validated the data input, and provided appropriate feedback if an error occurs or is successful.
+
 ![](/public/img/screenshots/validation_noinput.png)
 ![](/public/img/screenshots/validation_invalidemail.png)
 ![](/public/img/screenshots/validation_wrongemailpassword.png)
 ![](/public/img/screenshots/validation_registrationcomplete.png)
 ![](/public/img/screenshots/validation_addednewcar.png)
-
-On each input form, the CarRent website has validated the data input, and provided appropriate feedback if an error occurs or is successful.
 
 
 ## Interface
