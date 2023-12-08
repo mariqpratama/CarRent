@@ -21,7 +21,7 @@ The CarRent website has implemented a responsive interface design so that when a
 ![](/public/img/screenshots/landing_page_phone.png)
 ![](/public/img/screenshots/carRental_page_phone_1.png)
 
-### Validation
+### Validation & Feedback
 
 On each input form, the CarRent website has validated the data input, and provided appropriate feedback if an error occurs or is successful.
 
